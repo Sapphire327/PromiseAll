@@ -1,0 +1,12 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
